@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-## Tecnologias e ferramentas
+## ⚪ Tecnologias e ferramentas
 <div style="display: inline_block"><br>
     <img 
     align="left" 
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -72,19 +71,15 @@ Here are some ideas to get you started:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
-
 <br/>
 <br/>
-
+    
 </div>
 
 ## ​​⚪​ Minhas redes ​​
  <div> 
-    
    <a href="https://www.linkedin.com/in/daniela-xavier-ab68b831a/b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "danielaxm29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
-  
   </div>
 
 
