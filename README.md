@@ -5,25 +5,32 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭3º no Ensino Médio nas escolas SESI - AM
+- 🌱Cursando médio técnico em Redes de Computadores.
+- 👯Realizei diversos cursos na área de programação (Fundação Bradesco, Senai e etc).
+- 🤔Aprendiz em Front-end + Design na Tutilabs.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-Eu sou a Dani :), tenho 17 anos e sou de Manaus. Estou no Ensino Médio nas escolas SESI - AM, com o curso técnico em Redes de Computadores. Além disso, finalizei cursos na área de programação em software na Fundação Bradesco e entre outros. Atualmente, trabalho na Tutilabs como aprendiz em Front-end + Design. Amo tecnologia em geral, quero ainda mais me aprofundar em programação e adquirir conhecimento​🤍​.
+​👩‍🎓​3º no Ensino Médio nas escolas SESI - AM
+
+⚙️​Cursando médio técnico em Redes de Computadores.
+
+💻​Realizei diversos cursos na área de programação (Fundação Bradesco, Senai e etc).
+
+​👩‍💻​Aprendiz em Front-end + Design na Tutilabs.
 ​
 
+🤍Amo tecnologia em geral, quero ainda mais me aprofundar em programação e adquirir conhecimento​​.
 
-👩‍💻​Se quiser me conhecer mais, siga meu perfil no Linkedln: https://www.linkedin.com/in/daniela-xavier-ab68b831a/
 
-### 💻​💡​ Linguagens e Tecnologias
 
-<img 
+## Tecnologias e ferramentas
+<div style="display: inline_block"><br>
+    <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -56,16 +63,29 @@ Eu sou a Dani :), tenho 17 anos e sou de Manaus. Estou no Ensino Médio nas esco
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Figma" 
     title="Figma"
     width="30px" 
+    margin-top="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
 <br/>
 <br/>
+
+</div>
+
+## ​​⚪​ Minhas redes ​​
+ <div> 
+    
+   <a href="https://www.linkedin.com/in/daniela-xavier-ab68b831a/b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "danielaxm29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  
+  
+  </div>
+
+
 
