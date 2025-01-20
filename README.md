@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="right" height="200rem" 
+     src="https://github.com/user-attachments/assets/08e03250-4023-4be5-96ac-1d86fddd5f90"/>
 ​👩‍🎓​3º no Ensino Médio nas escolas SESI - AM
 
 ⚙️​Cursando médio técnico em Redes de Computadores.
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 ​
 
 🤍Amo tecnologia em geral, quero ainda mais me aprofundar em programação e adquirir conhecimento​​.
+
 
 
 
@@ -75,7 +77,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-    
+
 </div>
 
 ## ​​⚪​ Minhas redes ​​
@@ -84,7 +86,7 @@ Here are some ideas to get you started:
    <a href="mailto:danielaxm29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
 
-  ![ezgif com-optimize](https://github.com/user-attachments/assets/08e03250-4023-4be5-96ac-1d86fddd5f90)
+ 
 
 
 
