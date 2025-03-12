@@ -18,7 +18,7 @@ Here are some ideas to get you started:
      src="https://github.com/user-attachments/assets/08e03250-4023-4be5-96ac-1d86fddd5f90"/>
 ​👩‍🎓​3º no Ensino Médio nas escolas SESI - AM
 
-⚙️​Cursando médio técnico em Redes de Computadores.
+⚙️​Cursando médio técnico em Redes de Computadores - SENAI/AM
 
 💻​Realizei diversos cursos na área de programação (Fundação Bradesco, Senai e etc).
 
