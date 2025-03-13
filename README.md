@@ -75,6 +75,15 @@ Here are some ideas to get you started:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    margin-top="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <br/>
 <br/>
 
