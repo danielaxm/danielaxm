@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="Git" 
+    title="Git"
     width="30px" 
     margin-top="30px"
     style="padding-right: 10px;" 
