@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭3º no Ensino Médio nas escolas SESI - AM
-- 🌱Cursando médio técnico em Redes de Computadores.
+- 🔭
+- 🌱Técnico em Redes de Computadores.
 - 👯Realizei diversos cursos na área de programação (Fundação Bradesco, Senai e etc).
-- 🤔Aprendiz em Front-end + Design na Tutilabs.
+- 🤔Aprendiz em Front-end + Web Design na Tutilabs.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
